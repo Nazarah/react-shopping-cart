@@ -17,10 +17,5 @@ pipeline {
         sh 'npm run test'
       }
     }
-    stage('test e2e') {
-      steps {
-        sh 'npm run wdio'
-      }
-    }
   }
 }
