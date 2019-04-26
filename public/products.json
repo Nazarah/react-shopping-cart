@@ -1,7 +1,7 @@
 {
   "products": [{
       "id": "1",
-      "name": "Cherry",
+      "name": "Cat",
       "image": "images/Cherry.png",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
